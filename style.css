@@ -1,0 +1,261 @@
+.nav{
+    display: flex
+
+
+    
+}
+body{
+    background-color: rgb(215, 215, 225);
+}
+#nav1{
+ margin-left: 50px;
+ font-weight: 10px;
+}
+#nav2{
+    margin-left: 10px;
+    color: coral;
+}
+#nav3{
+    margin-left: 10px;
+}
+#nav4{
+    margin-left: 10px;
+
+}
+#nav5{
+    margin-left: 10px;
+}
+.ultimate{
+    font-weight: bolder;
+    font-size: 50px;
+    padding-left: 33px;
+}
+#fix{
+    color: coral;
+    margin-left: 5px;
+}
+.lorem{
+    font-size: 15px;
+    font-weight: 10px;
+    margin-left: 45px;
+}
+
+.image{
+
+}
+#image1{
+    width: 150px;
+    transform: rotate(680ded);
+}
+#image2{
+    position: relative;
+    left: 15%;
+    bottom: 60px;
+}
+#image3{
+    position: relative;
+    left: 15%;
+    bottom: 60px; 
+}
+#image4{
+    
+        position: relative;
+        left: 15%;
+        bottom: 60px;  
+}
+#image5{
+    position: relative;
+        left: 15%;
+        bottom: 60px;  
+} 
+.adidas{
+
+}
+#shoe1{
+    width: 150px;
+    position: relative;
+    left: 25%;
+    bottom: 270px;
+    transform: rotate(300ded);
+
+}
+#men1{
+    position: relative;
+    left: 40%;
+    bottom: 350px;
+
+}
+#men2{
+    position: relative;
+    left: 40%;
+    bottom: 350px;
+
+}
+#button3{
+    position: relative;
+    left: 40%;
+    bottom: 350px;
+
+
+}#Adidas{
+    position: relative;
+    left: 40%;
+    bottom: 350px; 
+}
+#best{
+    position: relative;
+    left: 20%;
+}
+#heading{
+    position: relative;
+    left: 25%;
+}
+#shoe2{
+    position: relative;
+    left: 55%;
+    bottom: 550px;
+
+}
+#shoe2{
+    width: 150px;
+    position: relative;
+    right: 10%;
+}
+
+#nike1{
+    position: relative;
+    left: 55%;
+    
+    bottom: 650px;
+
+}
+#nike2{
+    position: relative;
+    left: 55%;
+    bottom: 650px;
+    
+}
+#nike3{
+    position: relative;
+    left: 55%;
+    bottom: 650px;
+}
+#nike4{
+    position: relative;
+    left: 55%;
+    bottom:650px;
+}
+#mens{
+    position: relative;
+    font-weight: bold;
+    margin-right: 5%;
+
+}
+#womens{
+    font-weight: bold;
+    margin-right: 5%;
+
+}
+#kids{
+    font-weight: bold;
+    margin-right: 5%;
+
+}
+.feature{
+    display: flex;
+    position: relative;
+    bottom: 580px;
+    left: 200px;
+}
+#product{
+    position: relative;
+    bottom: 600px;
+    left: 200px;
+
+}
+#shoe5{
+    width: 150px;
+    position: relative;
+    bottom: 550px;
+    transform: rotate(680deg);
+    
+}
+#adida{
+    position: relative;
+    bottom: 500px;
+    left: 10px; 
+
+}
+#runshoes{
+    position: relative;
+    bottom: 500px; 
+    left: 10px;  
+
+}
+#amount{
+    position: relative;
+    bottom: 500px;  
+    left: 10px; 
+
+}
+.image-container{
+    background-color: white;
+    position: relative;
+    left: 30%;
+}
+.image-container2{
+    position: relative;
+    left: 15%;
+    bottom: 790px;
+}
+#nikeshoe{
+    width: 150px;
+    position: relative;
+    bottom: 790px;
+    left: 13%;
+    transform: rotate(700deg);
+    
+}.image-container4{
+    position: relative;
+    left: 0%;
+    
+}
+#image9{
+    width: 150px;
+    transform: rotate(705deg);
+
+}
+#image10{
+    width: 150px;
+    transform: rotate(705deg);
+}
+.container1{
+    position: relative;
+    bottom: 1200px;
+    margin-left: 40%;
+    
+    
+    background-size: 2px ;
+    
+    
+}
+.container{
+    position: relative;
+    left: 60%;
+    bottom: 1000px;
+}
+
+
+
+
+
+
+  
+    
+    
+
+    
+    
+    
+    
+    
